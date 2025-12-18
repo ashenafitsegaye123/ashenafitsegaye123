@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋, I'm Ashenafi Tsegaye</h1>
-<h3 align="left">Full-Stack Developer</h3>
+<h3 align="left">Developer</h3>
 
 ---
 
